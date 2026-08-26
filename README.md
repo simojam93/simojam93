@@ -2,7 +2,7 @@
 
 **CPO at [Forte AI](https://www.forte-ai.com)**, building AI tools for audio professionals. Our first products are **fMusic** and **fPost**.
 
-I direct all the design and UX/UI of everything we ship. I lead product and vibecode working prototypes so the dev team builds from something real: design systems, onboarding flows, docs sites, internal tools. Most of that work lives in Forte's private repos, and that is where the green squares come from.
+I direct all the design and UX/UI of our apps. I lead product and vibecode working prototypes so the dev team builds from something real: design systems, onboarding flows, docs sites, internal tools. Most of that work lives in Forte's private repos, and that is where the green squares come from.
 
 ### 🚴 Off the clock
 
