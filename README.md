@@ -9,3 +9,7 @@ I direct all the design and UX/UI of our apps. I lead product and vibecode worki
 I plan long cycling trips and build a small website for each one. They are in Italian because they are made to be used on the road, with friends. Every site is deliberately different (new layout, new libraries, Netlify vs Vercel) because each trip is also an excuse to learn something new.
 
 → **[cycling-routes](https://github.com/simojam93/cycling-routes)**: Camino de Santiago · Côte d'Azur · Tour of Slovenia · Week of the Northern Classics
+
+I also build small free tools when something I need doesn't exist. All open source, shared in case they help someone else.
+
+→ **[free-tools](https://github.com/simojam93/free-tools)**: BetterPrompter, a macOS teleprompter that hides your script in the camera notch
