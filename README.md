@@ -9,10 +9,10 @@ Some projects I build in my free time because I need them, like BetterPrompter, 
 videos. Others I build at work, for the company to use: PostEcho, jev-judge, the library behind it, and talkback,
 the product rules our developers' coding agents read before a task.
 
-| [**talkback** ↗](https://github.com/simojam93/talkback) | [**PostEcho** ↗](https://github.com/simojam93/postecho) | [**jev-judge** ↗](https://github.com/simojam93/jev-judge) | [**BetterPrompter** ↗](https://github.com/simojam93/better-prompter) |
+| [**PostEcho** ↗](https://github.com/simojam93/postecho) | [**talkback** ↗](https://github.com/simojam93/talkback) | [**BetterPrompter** ↗](https://github.com/simojam93/better-prompter) | [**jev-judge** ↗](https://github.com/simojam93/jev-judge) |
 | :-- | :-- | :-- | :-- |
-| Eight product rules, with their reasons, that a coding agent checks a feature against and comes back with one recommendation. | Find what's worth posting about, write it in your own voice, and schedule it on X and LinkedIn. | Calibrated judgments for social posts: on topic, any good, spam, and how human a draft reads. | A free macOS teleprompter under the camera notch, invisible in screen recordings. |
-| <kbd>Agent Skills</kbd> <kbd>Claude Code</kbd> <kbd>Codex</kbd> | <kbd>Next.js</kbd> <kbd>Claude Code</kbd> <kbd>Jev</kbd> | <kbd>TypeScript</kbd> <kbd>Jev</kbd> | <kbd>Swift</kbd> <kbd>SwiftUI</kbd> |
+| Find what's worth posting about, write it in your own voice, and schedule it on X and LinkedIn. | Eight product rules, with their reasons, that a coding agent checks a feature against and comes back with one recommendation. | A free macOS teleprompter under the camera notch, invisible in screen recordings. | Calibrated judgments for social posts: on topic, any good, spam, and how human a draft reads. |
+| <kbd>Next.js</kbd> <kbd>Claude Code</kbd> <kbd>Jev</kbd> | <kbd>Agent Skills</kbd> <kbd>Claude Code</kbd> <kbd>Codex</kbd> | <kbd>Swift</kbd> <kbd>SwiftUI</kbd> | <kbd>TypeScript</kbd> <kbd>Jev</kbd> |
 
 **How I work:** take away before adding, say each thing once, show the work while it happens, and let the
 person decide. The rules are written down in [talkback](https://github.com/simojam93/talkback), and the
