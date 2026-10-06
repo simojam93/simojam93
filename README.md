@@ -21,4 +21,4 @@ person decide. The rules are written down in [talkback](https://github.com/simoj
 ---
 
 Off the clock I plan long cycling trips and build a website for each one: [cycling-routes](https://github.com/simojam93/cycling-routes).<br>
-Open to conversations about product and design · [LinkedIn](https://www.linkedin.com/in/simone-lovera/) · [X](https://x.com/lovera_simone) · [sl.simonelovera@gmail.com](mailto:sl.simonelovera@gmail.com)
+Open to conversations about product and design · [simonelovera.com](https://simonelovera.com) · [LinkedIn](https://www.linkedin.com/in/simone-lovera/) · [X](https://x.com/lovera_simone) · [sl.simonelovera@gmail.com](mailto:sl.simonelovera@gmail.com)
