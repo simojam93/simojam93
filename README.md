@@ -1,12 +1,13 @@
 # Hi, I'm Simone
 
-**I design products and build them.** Chief product officer at [Forte AI](https://www.forte-ai.com), where I lead
-product and design for fMusic and fPost, AI tools for audio professionals, and for mecum. I prototype in code,
-with AI, so the team builds from something real. Most of that code lives in Forte's private repositories, which
-is where the green squares come from.
+**I design products and build them.** Chief product officer at [Forte AI](https://www.forte-ai.com). The company
+started with fMusic and fPost, AI tools for audio professionals working in Pro Tools, and has pivoted to
+[mecum](https://mecum.sh): AI agents that work in the desktop apps on your Mac, including apps with no API.
+I lead product and design, and I prototype in code, with AI, so the team builds from something real. Most of
+that code lives in private repositories, which is where the green squares come from.
 
 Some projects I build in my free time because I need them, like better-prompter, which I made to record my
-videos. Others I build at work: mecum, which I co-own with the Forte team, postecho, and talkback, the product
+videos. Others I build at work: mecum's open source app, which I co-own with the Forte team, postecho, and talkback, the product
 rules our developers' coding agents read before a task.
 
 | [**mecum** ↗](https://github.com/ForteAI-Org/mecum) | [**postecho** ↗](https://github.com/simojam93/postecho) | [**talkback** ↗](https://github.com/simojam93/talkback) | [**better-prompter** ↗](https://github.com/simojam93/better-prompter) |
