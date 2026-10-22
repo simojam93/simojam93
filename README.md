@@ -2,15 +2,15 @@
 
 **I design products and build them.** Chief product officer at [Forte AI](https://www.forte-ai.com). The company
 started with fMusic and fPost, AI tools for audio professionals working in Pro Tools, and has pivoted to
-[mecum](https://mecum.sh): AI agents that work in the desktop apps on your Mac, including apps with no API.
+[braus](https://braus.ai): AI agents that work in the desktop apps on your Mac, including apps with no API.
 I lead product and design, and I prototype in code, with AI, so the team builds from something real. Most of
 that code lives in private repositories, which is where the green squares come from.
 
 Some projects I build in my free time because I need them, like better-prompter, which I made to record my
-videos. Others I build at work: mecum's open source app, which I co-own with the Forte team, postecho, and talkback, the product
+videos. Others I build at work: braus's open source app, which I co-own with the Forte team, postecho, and talkback, the product
 rules our developers' coding agents read before a task.
 
-| [**mecum** ↗](https://github.com/ForteAI-Org/mecum) | [**postecho** ↗](https://github.com/simojam93/postecho) | [**talkback** ↗](https://github.com/simojam93/talkback) | [**better-prompter** ↗](https://github.com/simojam93/better-prompter) |
+| [**braus** ↗](https://github.com/ForteAI-Org/braus) | [**postecho** ↗](https://github.com/simojam93/postecho) | [**talkback** ↗](https://github.com/simojam93/talkback) | [**better-prompter** ↗](https://github.com/simojam93/better-prompter) |
 | :-- | :-- | :-- | :-- |
 | Lets AI agents work in the desktop apps on your Mac while you keep using it, including apps with no API. | Finds topics for X and LinkedIn posts and drafts them from your own writing examples. | Eight product rules, with their reasons, that a coding agent checks a feature against and comes back with one recommendation. | A free macOS teleprompter that sits under the camera and stays out of screen recordings. |
 | <kbd>Swift</kbd> <kbd>MCP</kbd> | <kbd>Next.js</kbd> <kbd>Claude Code</kbd> | <kbd>Agent Skills</kbd> <kbd>Claude Code</kbd> <kbd>Codex</kbd> | <kbd>Swift</kbd> <kbd>SwiftUI</kbd> |
