@@ -7,13 +7,14 @@ I lead product and design, and I prototype in code, with AI, so the team builds 
 that code lives in private repositories, which is where the green squares come from.
 
 Some projects I build in my free time because I need them, like better-prompter, which I made to record my
-videos. Others I build at work: braus's open source app, which I co-own with the Forte team, postecho, and talkback, the product
+videos, and Kinomia, an iPhone app that turns my Garmin and Amazfit devices into three numbers each morning
+([case study](https://github.com/simojam93/kinomia-showcase/blob/main/CASE-STUDY.md)). Others I build at work: braus's open source app, which I co-own with the Forte team, postecho, and talkback, the product
 rules our developers' coding agents read before a task.
 
-| [**braus** ↗](https://github.com/ForteAI-Org/braus) | [**postecho** ↗](https://github.com/simojam93/postecho) | [**talkback** ↗](https://github.com/simojam93/talkback) | [**better-prompter** ↗](https://github.com/simojam93/better-prompter) |
-| :-- | :-- | :-- | :-- |
-| Lets AI agents work in the desktop apps on your Mac while you keep using it, including apps with no API. | Finds topics for X and LinkedIn posts and drafts them from your own writing examples. | Eight product rules, with their reasons, that a coding agent checks a feature against and comes back with one recommendation. | A free macOS teleprompter that sits under the camera and stays out of screen recordings. |
-| <kbd>Swift</kbd> <kbd>MCP</kbd> | <kbd>Next.js</kbd> <kbd>Claude Code</kbd> | <kbd>Agent Skills</kbd> <kbd>Claude Code</kbd> <kbd>Codex</kbd> | <kbd>Swift</kbd> <kbd>SwiftUI</kbd> |
+| [**Kinomia** ↗](https://github.com/simojam93/kinomia-showcase) | [**braus** ↗](https://github.com/ForteAI-Org/braus) | [**postecho** ↗](https://github.com/simojam93/postecho) | [**talkback** ↗](https://github.com/simojam93/talkback) | [**better-prompter** ↗](https://github.com/simojam93/better-prompter) |
+| :-- | :-- | :-- | :-- | :-- |
+| Turns every wearable you own into three numbers each morning, with your data on your iPhone. [Case study](https://github.com/simojam93/kinomia-showcase/blob/main/CASE-STUDY.md). | Lets AI agents work in the desktop apps on your Mac while you keep using it, including apps with no API. | Finds topics for X and LinkedIn posts and drafts them from your own writing examples. | Eight product rules, with their reasons, that a coding agent checks a feature against and comes back with one recommendation. | A free macOS teleprompter that sits under the camera and stays out of screen recordings. |
+| <kbd>SwiftUI</kbd> <kbd>TypeScript</kbd> <kbd>Claude Code</kbd> | <kbd>Swift</kbd> <kbd>MCP</kbd> | <kbd>Next.js</kbd> <kbd>Claude Code</kbd> | <kbd>Agent Skills</kbd> <kbd>Claude Code</kbd> <kbd>Codex</kbd> | <kbd>Swift</kbd> <kbd>SwiftUI</kbd> |
 
 **How I work:** take away before adding, say each thing once, show the work while it happens, and let the
 person decide. The rules are written down in [talkback](https://github.com/simojam93/talkback), and the
