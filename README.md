@@ -7,7 +7,7 @@ I lead product and design, and I prototype in code, with AI, so the team builds 
 that code lives in private repositories, which is where the green squares come from.
 
 Some projects I build in my free time because I need them, like better-prompter, which I made to record my
-videos, and kinomia, an iPhone app that turns my Garmin and Amazfit devices into three numbers each morning
+videos, and kinomia, an iPhone app that turns every wearable you own into three numbers each morning
 ([case study](https://github.com/simojam93/kinomia-showcase)). Others I build at work: braus's open source app, which I co-own with the Forte team, postecho, and talkback, the product
 rules our developers' coding agents read before a task.
 
